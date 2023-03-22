@@ -13,13 +13,13 @@
 
 ### 🪐 About Me 
 
-🧬  From July 2021, I worked as responsible of full stack development of web applications by using Asp .NET, Mssql, Html, Css.
+🧬  From July 2021, I worked as responsible of Full Stack Development of web applications by using Asp .NET, Mssql, Html, Css.
 
 🧬 In July 2022, I started working with C# and Asp .NET technologies as a software developer in a software company.
 
 🧬 In June 2022 I attended .NET education in MLL.
 
-🧬 At the beginning of March 2023, I started  bootcamp with Asp .Net Core & Angular & ReactJs. 
+🧬 At the beginning of March 2023, I started bootcamp with Asp .Net Core & Angular & ReactJs. 
 
 
 
