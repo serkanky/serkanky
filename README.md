@@ -1,4 +1,4 @@
-### Hi there 👋, Serkan Kaya
+### Hi there 👋, I`m Serkan 
 #### Software Developer
 ![Software Developer](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 
