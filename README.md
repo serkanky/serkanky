@@ -31,7 +31,7 @@
     <img height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </a>
 </p>
-
+ 
 ### Contact & Social
 <h3 align="center">
  <a href="https://www.linkedin.com/in/mserkankaya/">
