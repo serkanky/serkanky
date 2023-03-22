@@ -8,7 +8,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhMTEzNGI0NzNmYTFiNTQ0ZmRhM2M4ZTU2MGI1YzhmNDE1OGUzNyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 </a>
 
 ### 👩🏼‍💻 About Me 
