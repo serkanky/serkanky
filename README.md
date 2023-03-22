@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Serkan Kaya
+#### Software Development
+![Software Development](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 
-<!--
-**softwaresspecialist/softwaresspecialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce myself, i am a FullStack Software Developer | Microsoft experience ~ and cyber security analyst. I am a self developing person and am open to innovation
 
-Here are some ideas to get you started:
+Skills: C# / .NET / Asp.Net / ASP.NET MVC / ReactJS /Angular / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  Nowhere 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mserkankaya//)  
+
