@@ -14,4 +14,4 @@
 
 </br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=softwaresspecialist&show_icons=true&locale=en&layout=compact" alt="softwaresspecialist" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=softwaresspecialist&show_icons=true&locale=en" alt="softwaresspecialist" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=softwaresspecialist&show_icons=true&locale=en" alt="softwaresspecialist" /></p>
