@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,java,spring,js,jquery,react,html,css,git,gitlab,github,docker,postgres"/>
+    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,dotnet,cs,java,angular,nodejs,js,react,html,css,git,github,mysql,mongodb"/>
     <img height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </a>
 </p>
