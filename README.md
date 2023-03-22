@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1YzIxNzBiZjBiZDc0NjVmMmIyMzU1NDU0ZTgyYmViNGJhZTQ1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 <h3 align="center">FullStack Software Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1YzIxNzBiZjBiZDc0NjVmMmIyMzU1NDU0ZTgyYmViNGJhZTQ1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softwaresspecialist&label=Profile%20views&color=0e75b6&style=flat" alt="softwaresspecialist" /> </p>
 
