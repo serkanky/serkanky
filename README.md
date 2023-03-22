@@ -1,6 +1,6 @@
 ### Hi there 👋, Serkan Kaya
-#### Software Development
-![Software Development](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+#### Software Developer
+![Software Developer](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 
 Let me introduce myself, i am a FullStack Software Developer | Microsoft experience ~ and cyber security analyst. I am a self developing person and am open to innovation
 
