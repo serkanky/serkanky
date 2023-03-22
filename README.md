@@ -11,7 +11,7 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhMTEzNGI0NzNmYTFiNTQ0ZmRhM2M4ZTU2MGI1YzhmNDE1OGUzNyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 </a>
 
-### 🪐🏼‍💻 About Me 
+### 🪐 About Me 
 
 ✨  From July 2021, I worked as responsible of full stack development of web applications by using Asp .NET, Mssql, Html, Css.
 
