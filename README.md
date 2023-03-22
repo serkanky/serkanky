@@ -12,17 +12,16 @@
 </a>
 
 ### 👩🏼‍💻 About Me 
-✨ I earned a BSc degree in electrical and electronics engineering in 2018.
 
-✨ From September 2020, I worked as SAP MII developer more than a year and I was responsible of full stack development of web applications by using JavaScript, SQL, HTML, CSS, jQuery and MII workbench.
+✨  From July 2021, I worked as responsible of full stack development of web applications by using Asp .NET, Mssql, Html, Css.
 
-✨ In January 2022, I started working with C# and .NET technologies as a software developer in a call center company.
+✨ In July 2022, I started working with C# and Asp .NET technologies as a software developer in a software company.
 
-✨ In June 2022 I attended Java Spring Boot bootcamp.
+✨ In June 2022 I attended .NET education in MLL.
 
-✨ At the end of September 2022, I started working with Java - Spring Boot & React.js in a money transfer company as a software developer. 
+✨ At the beginning of March 2023, I started  bootcamp with Asp .Net Core & Angular & ReactJs. 
 
-✨ In parallel, I participated in the 4-month intensive Up School .NET development program.
+
 
 ### Languages, Frameworks & Tools
 
@@ -40,5 +39,5 @@
  </a>
 </h3>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
  
