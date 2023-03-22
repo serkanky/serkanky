@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1YzIxNzBiZjBiZDc0NjVmMmIyMzU1NDU0ZTgyYmViNGJhZTQ1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1YzIxNzBiZjBiZDc0NjVmMmIyMzU1NDU0ZTgyYmViNGJhZTQ1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 <h3 align="center">FullStack Software Developer</h3>
 
 
