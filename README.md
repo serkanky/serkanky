@@ -8,7 +8,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhMTEzNGI0NzNmYTFiNTQ0ZmRhM2M4ZTU2MGI1YzhmNDE1OGUzNyZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
+  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp">
 </a>
 
 ### 🪐 About Me 
