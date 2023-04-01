@@ -36,7 +36,7 @@
  
 ### Contact & Social
 <h3 align="center">
- <a target="_blank" href="https://www.linkedin.com/in/mserkankaya/">
+ <a href="https://www.linkedin.com/in/mserkankaya/">
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
 </h3>
