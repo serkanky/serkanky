@@ -14,7 +14,6 @@
 </a>
 
 ### 🪐 About Me 
-🧬  My software career dates back to 6 years ago.
 
 🧬  From July 2021, I worked as responsible of Full Stack Development of web applications by using Asp .NET, Mssql, Html, Css.
 
